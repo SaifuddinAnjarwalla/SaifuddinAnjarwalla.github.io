@@ -1,11 +1,11 @@
 # Site settings
 author: Saifuddin Anjarwalla
-title: 
+title: Microsoft Film Studio
 header-img: img/home-bg.png
 email: saifuddinanjarwalla@gmail.com
 copyright_name: Saifuddin Anjarwalla
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Helping Microsoft better understand the film industry.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SaifuddinAnjarwalla
